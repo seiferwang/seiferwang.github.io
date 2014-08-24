@@ -91,4 +91,4 @@ blockquote p {
 }
 
 /* CSS3图片旋转 */
-.img-rotate, .img-rotate-hover:hover {-webkit-animation: spin .35s linear infinite;}
+.img-rotate, .img-rotate-hover:hover {-webkit-animation: spin 1s linear infinite;}
