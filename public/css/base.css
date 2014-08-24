@@ -30,8 +30,9 @@ body, html {
   border-radius: 0px;
 }
 .avatar {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
+  box-shadow: rgb(255, 255, 255) 0px 0px 0px 4px, rgb(238, 238, 238) 0px 0px 4px 4px;
 }
 .aside1_bottom {
   width: 100%;
