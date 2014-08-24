@@ -89,3 +89,6 @@ blockquote p {
   width: 100%;
   margin-bottom: 40px;
 }
+
+/* CSS3图片旋转 */
+.img-rotate, .img-rotate-hover:hover {-webkit-animation: spin .35s linear infinite;}
